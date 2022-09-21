@@ -1,0 +1,8 @@
+name: BungeeAntiSwear
+version: '${project.version}'
+main: it.riccardo760.bungeeantiswear.Main
+description: Simple anti swear plugin
+author: Riccardo760
+commands:
+  bas:
+    description: Bas reload

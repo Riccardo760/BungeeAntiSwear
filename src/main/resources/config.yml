@@ -1,0 +1,50 @@
+#BungeeAntiSwear v1.0
+#Developed by Riccardo760
+#Telegram: @Riccardo760
+#Discord: @Riccardo760#1314
+
+#notify: bungeeantiswear.notify
+#reload: bungeeantiswear.reload
+
+
+
+bannedWords:
+  - "dioporco"
+    - "diocane"
+    - "porcodio"
+    - "porcamadonna"
+    - "dioporco"
+    - "negro"
+    - "dio porco"
+    - "dio cane"
+    - "porco dio"
+    - "porca madonna"
+    - "dio porco"
+    - "dio negro"
+    - "negr0"
+    - "n3gro"
+    - "n3gr0"
+    - "madonnatroia"
+    - "frocio"
+    - "fr0ci0"
+    - "froci0"
+    - "troia"
+    - "puttana"
+    - "zoccola"
+    - "vaffanculo"
+    - "puttan4"
+    - "putt4n4"
+    - "putt4na"
+    - "ebreo"
+    - "ebre0"
+    - "cicciona"
+    - "ciccion4"
+    - "cicci0na"
+    - "cicci0n4"
+    - "lesbica"
+    - "lesbic4"
+    - "gay"
+    - "g4y"
+
+
+
